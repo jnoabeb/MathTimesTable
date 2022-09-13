@@ -3,6 +3,7 @@
 # also try except to catch any errors
 # modularise using functions
 #use something like case instead of if then else
+# testing github
 from random import randint
 from ast import Try
 from msilib.schema import Error
