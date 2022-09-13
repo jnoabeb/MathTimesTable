@@ -1,0 +1,11 @@
+Name: ecko Score: 2 / 12 Percentage: 16.67 Date: 2022-08-22 17:45:37.458289Name: derk Score: 2 / 12 Percentage: 16.67 Date: 2022-08-22 17:47:07.791466Name: Hatani Score: 1 / 12 Percentage: 8.33 Date: 2022-08-22 17:48:22.368789
+Name: Hoba Score: 2 / 12 Percentage: 16.67 Date: 2022-08-22 17:51:35.632688
+Name: Daro Score: 2 / 12 Percentage: 16.67 Date: 2022-08-22 17:53:57.006781
+Name: Zion Score: 1 / 12 Percentage: 8.33 Date: 2022-08-22 17:54:29.325854
+Name: Tia Score: 2 / 12 Percentage: 16.67 Date: 2022-08-22 22:28:38.647340
+Name: Tia Score: 2 / 12 Percentage: 16.67 Date: 2022-08-22 22:29:04.325312
+Name: Hata Score: 2 / 12 Percentage: 100.00 Date: 2022-08-22 22:30:18.175090
+Name: kool Score: 2 / 12 Percentage: 100.00% Date: 2022-08-22 22:32:59.185239
+Name: Winter Score: 2 / 12 Percentage: 100.00% Date: 2022-08-22 22:44:12.897334 ExecTime: 0.0
+Name: de Score: 2 / 12 Percentage: 100.00% Date: 2022-08-22 22:46:55.157860 ExecTime: 0.0
+Name: derk Score: 2 / 12 Percentage: 100.00% Date: 2022-08-22 23:01:25.889697 ExecTime: 0:00:16.694742
